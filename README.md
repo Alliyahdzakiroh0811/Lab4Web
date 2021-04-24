@@ -2,6 +2,8 @@ Nama  : Alliyah Dzakiroh
 Nim   : 311910551
 Kelas : Ti 19C1
 Matakuliah : pemograman
+
+
 1.tambahkan kode untuk membuat box element dengan tag div
 2.Selanjutnya tambahkan deklarasi CSS pada head untuk membuat float element,
 3.Tambahkan element div lainnya seteleah div3 seperti berikut.

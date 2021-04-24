@@ -12,7 +12,8 @@ Matakuliah : pemograman
 ![Screenshot (192)](https://user-images.githubusercontent.com/56861575/115943459-4907b600-a4da-11eb-8698-ce3c638d44b9.png)
 ![Screenshot (193)](https://user-images.githubusercontent.com/56861575/115943463-4efd9700-a4da-11eb-8031-57230d56127d.png)
 ![Screenshot (194)](https://user-images.githubusercontent.com/56861575/115943469-5755d200-a4da-11eb-8a8f-11b3155d55e3.png)
-![Screenshot (191)](https://user-images.githubusercontent.com/56861575/115943586-f5e23300-a4da-11eb-8d08-819fa31e627a.png)
+![Screenshot (226)](https://user-images.githubusercontent.com/56861575/115946283-57f66480-a4ea-11eb-81d0-451a2bc2018d.png)
+
 
 
 5.Membuat Layout Sederhana

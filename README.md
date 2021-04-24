@@ -11,7 +11,6 @@ Matakuliah : pemograman
 
 ![Screenshot (192)](https://user-images.githubusercontent.com/56861575/115943459-4907b600-a4da-11eb-8698-ce3c638d44b9.png)
 ![Screenshot (193)](https://user-images.githubusercontent.com/56861575/115943463-4efd9700-a4da-11eb-8031-57230d56127d.png)
-![Screenshot (194)](https://user-images.githubusercontent.com/56861575/115943469-5755d200-a4da-11eb-8a8f-11b3155d55e3.png)
 ![Screenshot (226)](https://user-images.githubusercontent.com/56861575/115946283-57f66480-a4ea-11eb-81d0-451a2bc2018d.png)
 
 
@@ -44,8 +43,9 @@ Matakuliah : pemograman
  
  
  15.Buka browser untuk melihat hasil seperti gambar
- ![Screenshot (210)](https://user-images.githubusercontent.com/56861575/115944165-5161f000-a4de-11eb-8ee6-1e54284ad70d.png)
-![Screenshot (211)](https://user-images.githubusercontent.com/56861575/115944167-558e0d80-a4de-11eb-83a0-57853fda2fb0.png)
+ ![Screenshot (228)](https://user-images.githubusercontent.com/56861575/115946341-bb809200-a4ea-11eb-81a8-65f7d7c4c3e1.png)
+![Screenshot (229)](https://user-images.githubusercontent.com/56861575/115946348-c6d3bd80-a4ea-11eb-826e-0ca888319af8.png)
+
 
 
  TUGAS 

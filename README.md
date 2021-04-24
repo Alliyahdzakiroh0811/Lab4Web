@@ -53,7 +53,8 @@ Matakuliah : pemograman
  ![Screenshot (190)](https://user-images.githubusercontent.com/56861575/115944209-98e87c00-a4de-11eb-89d7-2b3cb85f1986.png)
                                     
                                                                 TUGAS 2
- ![Screenshot (212)](https://user-images.githubusercontent.com/56861575/115945104-31cdc600-a4e4-11eb-9d26-3a7e228797e9.png)
+ ![Screenshot (217)](https://user-images.githubusercontent.com/56861575/115945177-aacd1d80-a4e4-11eb-99fe-beffb291df90.png)
+
 
  
 

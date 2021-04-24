@@ -23,7 +23,8 @@ Matakuliah : pemograman
 ![Screenshot (199)](https://user-images.githubusercontent.com/56861575/115943811-43ab6b00-a4dc-11eb-82ba-fda7d2c7b286.png)
 ![Screenshot (200)](https://user-images.githubusercontent.com/56861575/115943812-47d78880-a4dc-11eb-89f3-8bdeb0277534.png)
 ![Screenshot (201)](https://user-images.githubusercontent.com/56861575/115943821-59209500-a4dc-11eb-84b1-5dad3c258c4e.png)
-![Screenshot (202)](https://user-images.githubusercontent.com/56861575/115943988-60946e00-a4dd-11eb-9415-11cadc8cb8be.png)
+![Screenshot (228)](https://user-images.githubusercontent.com/56861575/115946630-c76d5380-a4ec-11eb-807c-411cbe967eb7.png)
+
 
 
 

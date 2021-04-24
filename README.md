@@ -49,6 +49,7 @@ Matakuliah : pemograman
 
  TUGAS 
  buat single layout yang berisi deskripsi, portfolio, dll
+                                                                
                                                                 TUGAS 1
  ![Screenshot (190)](https://user-images.githubusercontent.com/56861575/115944209-98e87c00-a4de-11eb-89d7-2b3cb85f1986.png)
                                     
